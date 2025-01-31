@@ -112,13 +112,4 @@ sudo docker version
 
 URL : http://public-ip:port/
 	
-# We are done with our Setup #
 
-# Step - 7 : Nginx webserver #
-
-# Step - 8 : Domain #
-
-# Step - 9 : SSL certificate #
-	
-# Step - 10 : After your practise, delete resources we have used in AWS Cloud to avoid billing ##
->>>>>>> 13df53b (Initial commit of maven project)
